@@ -38,7 +38,7 @@ The objective is to answer key business questions:
 
 ## Project Workflow
 
-```text
+`text
 Data Understanding
        ↓
 Data Cleaning & Preprocessing
@@ -51,7 +51,7 @@ KPI Analysis
        ↓
 Business Insights
        ↓
-Recommendations
+Recommendations '
 
 <img width="989" height="490" alt="Monthly_Revenue_Trend" src="https://github.com/user-attachments/assets/3cdfade5-3441-46fa-b699-f40e6a0bcc7d" />
 <img width="1255" height="470" alt="Customer_Rating_Analysis" src="https://github.com/user-attachments/assets/e7d0ca6b-0404-404a-84c5-030ab054f1aa" />
