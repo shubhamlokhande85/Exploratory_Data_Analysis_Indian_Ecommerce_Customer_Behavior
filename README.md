@@ -38,7 +38,7 @@ The objective is to answer key business questions:
 
 ## Project Workflow
 
-`text
+
 Data Understanding
        ↓
 Data Cleaning & Preprocessing
